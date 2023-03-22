@@ -1,0 +1,17 @@
+<column>
+     <name>app_name</name>
+     <value>XML2DW</value>
+</column>
+<column>
+     <name>created_by</name>
+     <width>600</width>
+     <value>Daniel P. Carter</value>
+</column>
+<column>
+     <name>create_date</name>
+     <width>200</width>
+     <label>On</label>
+     <value>11/03/2003</value>
+     <type>datetime</type>
+</column>
+<column>Extra</column>

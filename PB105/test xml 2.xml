@@ -1,0 +1,10 @@
+<namecard>
+ <namecard_row>
+  <name_id>N00000000500</name_id>
+  <name_pre>Mr.<type>char(3)</type></name_pre>
+  <name_first>Daniel<width>500</width><type>char(20)</type></name_first>
+  <name_mi>P<width>50</width><type>char(1)</type></name_mi>
+  <name_last><value>Carter</value></name_last>
+  <updated_by/>
+ </namecard_row>
+</namecard>
